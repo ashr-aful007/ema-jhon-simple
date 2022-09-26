@@ -8,7 +8,7 @@ const Shop = () => {
      const [cart, setCard] = useState([])
      //Event handlar
      const handleAddToCart = (product) =>{
-          console.log(product);
+          // console.log(product);
           //donot do this cart.push(product);
           const newCart = [...cart, product]
           setCard(newCart);
