@@ -18,3 +18,9 @@
 .header a:hover{
      color: orange;
 }
+.header span{
+     color: #FFFFFF;
+}
+.btn-logOut{
+     margin-left: 60px;
+}
